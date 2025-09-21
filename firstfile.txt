@@ -1,2 +1,6 @@
 hello Github 
+<<<<<<< HEAD
 hello brother
+=======
+hello day 2
+>>>>>>> conflict-demo
